@@ -1,10 +1,10 @@
 # Automated News Article Summarizer using LLaMA 3.1
 .
 # Project Description: 
-   In today's information age, the sheer volume of news content poses a challenge for users to stay informed without investing significant time. This project aims to address this issue by developing an Automated Content Summarizer for News Articles. The solution leverages LLaMA, a powerful language model, to automatically generate concise and coherent summaries from lengthy news articles. By integrating advanced natural language processing capabilities, the tool will enhance media consumption efficiency and improve information retention for readers.
+   In the digital age, the overwhelming volume of news makes it difficult for users to stay informed without spending excessive time. This project seeks to solve this challenge by developing an Automated Content Summarizer for News Articles. Using LLaMA, a powerful language model, the system will generate concise, coherent summaries from lengthy news pieces. By leveraging advanced natural language processing techniques, the tool will enhance media consumption efficiency, allowing readers to quickly grasp key insights. This approach not only saves time but also improves information retention, ensuring users stay updated with relevant news in a clear and digestible format.
 
-# How LLaMA is Utilized in the Project: 
-   LLaMA, like other open large language models (LLMs), will serve as the core engine for text summarization within the project. Specifically, LLaMA's capabilities in understanding and synthesizing complex textual information will be harnessed to extract the most significant information from news articles. Through fine-tuning and adapting LLaMA's pre-trained model, the system will be optimized to generate accurate and contextually relevant summaries tailored to various news topics and styles. This approach ensures that the automated summaries maintain high quality and readability, enhancing the overall user experience.
+# How LLaMA is Used in the Project: 
+   LLaMA, an open LLM, will power text summarization in the project, extracting key insights from news articles. By fine-tuning its pre-trained model, the system will generate accurate, contextually relevant summaries across various topics. This ensures high-quality, readable summaries, enhancing user experience with concise and meaningful content.
 
 ## Installation
 
@@ -103,11 +103,3 @@ ipywidgets
 ## Contributing
 
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-Feel free to modify any part of this README to better suit your project's specifics or your preferences!
